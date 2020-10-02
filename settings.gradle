@@ -1,0 +1,3 @@
+rootProject.name = 'multigradle-project-example-3'
+include 'consumer', 'producer'
+
